@@ -1,0 +1,13 @@
+[0m[[0m[33mwarn[0m] [0m[0m/home/terhaug/Skole/Progspraak/TDT4165_Scala_Project/src/main/scala/Account.scala:13:11: Adaptation of argument list by inserting () is deprecated: this is unlikely to be what you want.[0m
+[0m[[0m[33mwarn[0m] [0m[0m        signature: Left.apply[A, B](value: A): scala.util.Left[A,B][0m
+[0m[[0m[33mwarn[0m] [0m[0m  given arguments: <none>[0m
+[0m[[0m[33mwarn[0m] [0m[0m after adaptation: Left((): Unit)[0m
+[0m[[0m[33mwarn[0m] [0m[0m      Left()[0m
+[0m[[0m[33mwarn[0m] [0m[0m          ^[0m
+[0m[[0m[33mwarn[0m] [0m[0m/home/terhaug/Skole/Progspraak/TDT4165_Scala_Project/src/main/scala/Account.scala:22:11: Adaptation of argument list by inserting () is deprecated: this is unlikely to be what you want.[0m
+[0m[[0m[33mwarn[0m] [0m[0m        signature: Left.apply[A, B](value: A): scala.util.Left[A,B][0m
+[0m[[0m[33mwarn[0m] [0m[0m  given arguments: <none>[0m
+[0m[[0m[33mwarn[0m] [0m[0m after adaptation: Left((): Unit)[0m
+[0m[[0m[33mwarn[0m] [0m[0m      Left()[0m
+[0m[[0m[33mwarn[0m] [0m[0m          ^[0m
+[0m[[0m[33mwarn[0m] [0m[0mtwo warnings found[0m
